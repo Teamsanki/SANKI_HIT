@@ -201,10 +201,10 @@ def main(message):
   else:
     bot.reply_to(
         message,
-        "σнн.. ѕσяяу ѕιя уσυ αяє ησт α ρяємιυм υѕєя ρℓєαѕє gєт ιт ƒяσм @Itsz_Krish_Babess 😉😁  \n paid premium plan  \n Buy This")
+        "σнн.. ѕσяяу ѕιя уσυ αяє ησт α ρяємιυм υѕєя ρℓєαѕє gєт ιт ƒяσм @TSGCODER 😉😁  \n paid premium plan  \n Buy This")
 
 
 keep_alive()
-print("STARTED BOT @CYPHIC_MAIN_CHANNEL")
+print("STARTED BOT @ABOUT_VIP_STRANGER")
 bot.infinity_polling()
 
